@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Luke
 
+<<<<<<< HEAD
 coach: MainLeopardsCoach
+=======
+coach: Conflict2LeopardsCoach
+>>>>>>> conflict-2
 
 coach: Oscar
 
